@@ -1,4 +1,3 @@
-/* eslint-disable @next/next/no-img-element */
 import React from "react";
 import Link from "next/link";
 import { ArrowRight, ChevronRight } from "lucide-react";
@@ -77,7 +76,7 @@ export default function HeroSection() {
                   },
                 },
               }}
-              className="mask-b-from-35% mask-b-to-90% absolute inset-0 top-56 -z-2 lg:top-32 -z-20">
+              className="mask-b-from-35% mask-b-to-90% absolute inset-0 top-56 lg:top-32 -z-20">
               <Image
                 src={BackgroundImage}
                 alt="background"
