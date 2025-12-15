@@ -5,6 +5,7 @@
         "Laravel",
         "Orpc",
         "Squeezy",
-        "Teamflow"
+        "Teamflow",
+        "vercel"
     ]
 }
